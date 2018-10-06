@@ -8,7 +8,7 @@ public class Auth {
 
 	public string GetAuthKey()
 	{
-		string APIKey = "sandbox_ZmU3M2M4ZGMtNmZkYy00Y2RmLTlkYjQtZmNkYmU1YjI1ZTE0LlNhVWotWmRiNHVaMm5TdHFheWp6OW1mNzNsZUdMVjd5";
+		string APIKey = "";
 
 		if (string.IsNullOrEmpty(APIKey))
 		{
